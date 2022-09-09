@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(170, 80, 255);
+    font-family: 'Garamond';
+    cursor: grabbing;
+}
+
+#code-image {
+    border: 20px solid pink;
+    border-radius: 25px;
+    height: 50%;
+    width: 50%;
+}
+
+.header-centered {
+    text-align: center;
+}
+
